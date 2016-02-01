@@ -26,3 +26,10 @@ AWS has a free trial tier, please sign up for it:
 ## Send your details
 
 Please email your github username and amazon AWS username to [Alexander.OConnor@dcu.ie](mailto:Alexander.OConnor@dcu.ie)
+
+## Bonus: Set up Hadoop
+
+Download Hadoop and run the example single-cluster grep application.
+<https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html>
+
+You might need to install oracle java, or to ensure that the ports are listening correctly.
