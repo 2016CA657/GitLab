@@ -15,6 +15,8 @@ commands.
 If you've not used Git before, please follow the tutorial below: 
 <https://try.github.io/levels/1/challenges/1>
 
+An introductory tutorial to GitLab (the "protected" version of github) will be delivered as part of the first Lab.
+
 ## Amazon AWS
 
 Amazon AWS is a cloud stack that provides compute, storage, database, and other functionality from a centralised console.
@@ -25,7 +27,7 @@ AWS has a free trial tier, please sign up for it:
 
 ## Send your details
 
-Please email your github username and amazon AWS username to [Alexander.OConnor@dcu.ie](mailto:Alexander.OConnor@dcu.ie)
+Please email your gitlab username and amazon AWS username to [alessandra.mileo@dcu.ie](mailto:alessandra.mileo@dcu.ie)
 
 ## Bonus: Set up Hadoop
 
